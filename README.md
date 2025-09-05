@@ -48,6 +48,8 @@ Join my journey in building my first homelab! Follow along as I document the pro
 | vpn-main     | 40      | 172.16.40.0/24  | 172.16.40.1  | VPN Main Network   | 172.16.40.200..172.16.40.200  |
 | srv-prod     | 50      | 10.50.0.0/24    | 10.50.0.1    | Production Servers | 10.50.0.100..10.50.0.200      |
 | srv-lab      | 55      | 10.55.0.0/24    | 10.55.0.1    | Lab Servers        | 10.55.0.100..10.55.0.200      |
+| vm-prod      | 60      | 10.60.0.0/24    | 10.60.0.1    | Production VMs     | 10.60.0.100..10.60.0.200      |
+| vm-lab       | 65      | 10.65.0.0/24    | 10.65.0.1    | Production VMs     | 10.65.0.100..10.65.0.200      |
 
 ## Host name structure
 | Hostname        | Description                          |

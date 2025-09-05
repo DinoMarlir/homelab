@@ -20,6 +20,11 @@ Join my journey in building my first homelab! Follow along as I document the pro
 - **Cacti**: Network graphing solution.
 - **Uptime Kuma**: Self-hosted monitoring tool.
 
+## Public Services I use
+- **CloudFlare**: DNS management and CDN services.
+  - **CloudFlare Zero Trust**: Secure access to internal applications without a VPN.
+- **IPv64.net**: Dynamic DNS service for managing domain names with dynamic IP addresses.
+
 ## Infrastructure Components
 - **Proxmox VE**: Open-source server virtualization environment.
   - Host: I don't know! If you have any idea please open an issue 💫

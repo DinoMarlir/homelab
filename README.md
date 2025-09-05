@@ -24,6 +24,7 @@ Join my journey in building my first homelab! Follow along as I document the pro
 - **CloudFlare**: DNS management and CDN services.
   - **CloudFlare Zero Trust**: Secure access to internal applications without a VPN.
 - **IPv64.net**: Dynamic DNS service for managing domain names with dynamic IP addresses.
+- **Hetzner**: For storing backups in the cloud.
 
 ## Infrastructure Components
 - **Proxmox VE**: Open-source server virtualization environment.

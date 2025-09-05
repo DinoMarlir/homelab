@@ -4,7 +4,7 @@ This repository contains configuration files and documentation for my personal h
 Join my journey in building my first homelab! Follow along as I document the process of setting up and configuring various services and applications.
 
 ## Services and Applications
-- **LLDAP** : Lightweight Directory Access Protocol for directory services.
+- **Authentik**: Identity and access management platform.
 - **Home Assistant**: Centralized home automation platform.
 - **AdGuard Home**: Network-wide ad blocker.
 - **Nextcloud**: Self-hosted cloud storage and collaboration platform.
@@ -42,3 +42,9 @@ Join my journey in building my first homelab! Follow along as I document the pro
 | vpn-main     | 40      | 172.16.40.0/24  | 172.16.40.1  | VPN Main Network   | 172.16.40.200..172.16.40.200  |
 | srv-prod     | 50      | 10.50.0.0/24    | 10.50.0.1    | Production Servers | 10.50.0.100..10.50.0.200      |
 | srv-lab      | 55      | 10.55.0.0/24    | 10.55.0.1    | Lab Servers        | 10.55.0.100..10.55.0.200      |
+
+## Host name structure
+| Hostname        | Description                          |
+|-----------------|--------------------------------------|
+| *.homelab.local | Main domain for all homelab services |
+| *.marlon.ovh    | Public domain for external access    |

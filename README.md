@@ -18,12 +18,13 @@ Join my journey in building my first homelab! Follow along as I document the pro
 - **Ansible**: Automation tool for configuration management and application deployment.
 - **Terraform**: Infrastructure as code tool for building, changing, and versioning infrastructure.
 - **Cacti**: Network graphing solution.
+- **Uptime Kuma**: Self-hosted monitoring tool.
 
 ## Infrastructure Components
 - **Proxmox VE**: Open-source server virtualization environment.
 - **UniFi Network**: Network management system for UniFi devices.
     - UniFi Dream Machine Pro (UDM-Pro)
-    - UniFi Flex Mini Switches for many rooms (UniFi Lite 8 Pro for Rooms with Access Points)
+    - UniFi Flex Mini Switches for many rooms (UniFi Lite 8 Pro for rooms with access points)
     - UniFi Access Points (U6-PLUS and UAP-AC-M)
 - **Raspberry Pi**: Single-board computer for various projects and services.
 

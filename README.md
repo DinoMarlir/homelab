@@ -22,6 +22,7 @@ Join my journey in building my first homelab! Follow along as I document the pro
 
 ## Infrastructure Components
 - **Proxmox VE**: Open-source server virtualization environment.
+  - Host: I don't know! If you have any idea please open an issue 💫
 - **UniFi Network**: Network management system for UniFi devices.
     - UniFi Dream Machine Pro (UDM-Pro)
     - UniFi Flex Mini Switches for many rooms (UniFi Lite 8 Pro for rooms with access points)

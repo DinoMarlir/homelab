@@ -1,0 +1,5 @@
+- name: Raspberry pi Setup
+  hosts: raspberrypi
+  become: true
+  roles:
+    - raspberrypi

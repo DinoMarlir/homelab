@@ -52,6 +52,11 @@ Join my journey in building my first homelab! Follow along as I document the pro
 | vm-prod      | 60      | 10.60.0.0/24    | 10.60.0.1    | Production VMs        | 10.60.0.100–10.60.0.200      |
 | vm-lab       | 65      | 10.65.0.0/24    | 10.65.0.1    | Lab VMs               | 10.65.0.100–10.65.0.200      |
 
+## Hosts
+| Hostname        | IP Address     | VLAN ID | Description                     |
+|-----------------|----------------|---------|---------------------------------|
+| raspberrypi     | 10.50.0.3      | 50      | Raspberry Pi for various tasks  |
+
 ## Host name structure
 | Hostname        | Description                          |
 |-----------------|--------------------------------------|

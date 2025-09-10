@@ -17,7 +17,7 @@ Join my journey in building my first homelab! Follow along as I document the pro
 - **Kubernetes**: Container orchestration platform for managing containerized applications.
 - **Ansible**: Automation tool for configuration management and application deployment.
 - **Terraform**: Infrastructure as code tool for building, changing, and versioning infrastructure.
-- **Cacti**: Network graphing solution.
+- **Netbox**: IP address management and data center infrastructure management tool.
 - **Uptime Kuma**: Self-hosted monitoring tool.
 
 ## Public Services I use

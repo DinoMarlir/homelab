@@ -39,7 +39,7 @@ Join my journey in building my first homelab! Follow along as I document the pro
 ### VLANs and Subnets
 | Network Name | VLAN ID | Subnet          | Gateway      | Description           | DHCP Range                   |
 |--------------|---------|-----------------|--------------|-----------------------|------------------------------|
-| mgmt         | 10      | 10.1.0.0/24     | 10.1.0.1     | Management Network    | 10.1.0.100–10.1.0.200        |
+| mgmt         | 10      | 10.1.10.0/24     | 10.1.0.1     | Management Network    | 10.1.0.100–10.1.0.200        |
 | private      | 20      | 172.16.20.0/24  | 172.16.20.1  | Private Network       | 172.16.20.100–172.16.20.200  |
 | wlan         | 21      | 172.16.21.0/24  | 172.16.21.1  | WLAN Network          | 172.16.21.10–172.16.21.200   |
 | wlan-guest   | 22      | 172.16.22.0/24  | 172.16.22.1  | Guest WLAN            | 172.16.22.10–172.16.22.200   |
